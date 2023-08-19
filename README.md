@@ -6,7 +6,9 @@
 Тестирование осуществлялось в соответствии с [требованиями](https://docs.google.com/document/d/1ZxIwNo3wYSuY9GQNEBmWLzo-TsrqX2mz/edit?usp=sharing&ouid=108178557176992179443&rtpof=true&sd=true) предоставленными заказчиком.
 
 Для выполнения тестирования было использовано следующее ПО:
-<ul>Windows 10 Pro, вер.22H2, сборка ОС 19045.3208</ul>
-<ul>PyCharm 2022.3.2 (Community Edition)</ul>
-<ul>Google Chrome Версия 115.0.5790.171 (Официальная сборка), (64 бит)</ul>
-<ul>Microsoft Office Версия 1908<ul>
+<ul>
+  <li>Windows 10 Pro, вер.22H2, сборка ОС 19045.3208</li>
+  <li>PyCharm 2022.3.2 (Community Edition)</li>
+  <li>Google Chrome Версия 115.0.5790.171 (Официальная сборка), (64 бит)</li>
+  <li>Microsoft Office Версия 1908</li>
+</ul>
